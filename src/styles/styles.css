@@ -92,3 +92,11 @@ section {
     color: var(--color-primary-1);
 } 
 
+.carousel-item {
+    background: var(--color-primary-5);
+}
+
+.carousel-item.active {
+    display: flex;
+    justify-content: center;
+}
