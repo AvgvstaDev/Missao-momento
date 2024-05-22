@@ -9,7 +9,6 @@ O objetivo principal desta atividade é permitir que os alunos expressem criativ
 
 ## Enunciado da atividade 
 
-Tarefas
 
 * Concepção da Empresa:
    * Cada aluno  deverá desenvolver uma empresa fictícia com uma missão clara e inspiradora de promover mudanças positivas na sociedade. A empresa deve ser baseada nos melhores valores da humanidade, como empatia, solidariedade, sustentabilidade, entre outros.
